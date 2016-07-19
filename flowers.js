@@ -5,6 +5,8 @@
 //if true it returns a message of flower is in season
 //if false it returns a message of flower is out of season.
 
+// so when you type "flower peonies" hubot should say "peonies is in season"
+
 //variables for flowers with names and return a value of true and false depending on which is in season
 var flowers =  {
   peonies: true,
